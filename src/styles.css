@@ -1,0 +1,39 @@
+
+@media only screen and ( max-width: 400px ) {
+    * {
+        overflow-x: hidden;
+    }
+    .logooo {
+        /* border: 1px solid red; */
+        width: 350px;
+        text-align: center;
+    }
+
+    .sobre-logo {
+        width: 300px;
+        text-align: center;
+        /* font-size: 23px; */
+    }
+
+    .sobre-p {
+        font-size: 16px;
+        text-align: justify;
+    }
+
+}
+
+.sobre-p p{
+    margin-bottom: 10px;
+    text-align: justify;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#links h3 {
+    color: #000;
+}
+
+#links a {
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+}
